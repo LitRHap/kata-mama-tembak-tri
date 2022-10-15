@@ -15,7 +15,7 @@ echo @color("yellow","
 ──║║──║╚══╗║║║║║║║║───║╚══╗║║║╚╗
 ──╚╝──╚═══╝╚╝╚╝╚╝╚╝───╚═══╝╚╝╚═╝
 \t╔════•ೋೋ•════╗ 
-          by-fhmynwa
+          by-LitRHap
 \t╚════•ೋೋ•════╝
 OJOK LALI ISI PULSA SEK DHEK\n
 SC GRATIS!!!!! \n\n");
